@@ -1,6 +1,6 @@
 # VSCode PHP Stubs
 
-A collection of PHP/Intelphense stubs for use with Visual Studio Code
+A collection of PHP/Intelephense stubs for use with Visual Studio Code
 
 ## Links
 
